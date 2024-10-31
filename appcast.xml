@@ -11,7 +11,7 @@
       <pubDate>Mon, 30 Oct 2024 10:30:00 +0000</pubDate>
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.firstdelivery.driverapp"
-        sparkle:version="1.0.0"
+        sparkle:version="1.1.0"
         sparkle:os="android"
         length="0"
         type="text/html"
@@ -23,7 +23,7 @@
       <pubDate>Mon, 30 Oct 2024 10:30:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/us/app/driver-partner/id1034612629"
-        sparkle:version="1.0.0"
+        sparkle:version="1.1.0"
         sparkle:os="ios"
         length="0"
         type="text/html"      
