@@ -6,12 +6,12 @@
     <title>Driver App</title>
     <language>en</language>
     <item>
-      <title>0.2.0</title>
+      <title>0.3.1</title>
       <description>Code improvements android.</description>
       <pubDate>Mon, 4 Nov 2024 06:17:00 +0000</pubDate>
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.firstdelivery.driverapp"
-        sparkle:version="0.2.0"
+        sparkle:version="0.3.1"
         sparkle:os="android"
         sparkle:criticalUpdate="true"
         length="0"
@@ -19,12 +19,12 @@
        />
     </item>
     <item>
-      <title>0.2.0</title>
+      <title>0.3.1</title>
       <description>Code improvements ios.</description>
       <pubDate>Mon, 4 Nov 2024 06:18:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/us/app/driver-partner/id1034612629"
-        sparkle:version="0.2.0"
+        sparkle:version="0.3.1"
         sparkle:os="ios"
         sparkle:criticalUpdate="true"
         length="0"
