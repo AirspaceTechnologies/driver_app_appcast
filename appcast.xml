@@ -7,7 +7,9 @@
     <language>en</language>
     <item>
       <title>1.1.0</title>
-      <description>Code improvements.</description>
+      <isCriticalUpdate>true</isCriticalUpdate>
+      <infoURL>https://apps.apple.com/us/app/driver-partner/id1034612629</infoURL>
+      <description>Code improvements android.</description>
       <pubDate>Mon, 30 Oct 2024 10:37:00 +0000</pubDate>
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.firstdelivery.driverapp"
@@ -18,8 +20,10 @@
        />
     </item>
     <item>
-      <title>1.1.0</title>
-      <description>Code improvements.</description>
+      <title>1.2.0</title>
+      <isCriticalUpdate>true</isCriticalUpdate>
+      <infoURL>https://apps.apple.com/us/app/driver-partner/id1034612629</infoURL>
+      <description>Code improvements ios.</description>
       <pubDate>Mon, 30 Oct 2024 10:38:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/us/app/driver-partner/id1034612629"
